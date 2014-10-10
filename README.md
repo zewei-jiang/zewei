@@ -1,4 +1,4 @@
-zewei
+OverView
 =====
 bayse的算法来自github，网址： https://github.com/ptnplanet/Java-Naive-Bayes-Classifier  
 具体这么使用这可以查看上面的网址，里面写的很清楚。
